@@ -37,7 +37,7 @@ employee-salary-analysis-r/
 **Requirements:** R (>= 4.0) and the `dplyr` package.
 
 ```bash
-git clone https://github.com/<your-username>/employee-salary-analysis-r.git
+git clone https://github.com/shaima-albokhari/employee-salary-analysis-r.git
 cd employee-salary-analysis-r
 
 # 1. Add the dataset to data/employee_salary_data.csv
