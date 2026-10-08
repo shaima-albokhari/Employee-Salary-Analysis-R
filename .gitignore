@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Rapp.history
+.ipynb_checkpoints/
+.DS_Store
+# Raw data is not tracked by default (see data/README.md)
+data/*.csv
